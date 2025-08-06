@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "type": "table",
+  "title": "product",
+  "hideInSidebar": false,
+  "config": {
+    "dataSource": "postgres-db-b89bus",
+    "fetchStrategy": "databaseTable",
+    "table": "Product"
+  }
+}

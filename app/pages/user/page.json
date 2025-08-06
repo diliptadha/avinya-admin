@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "type": "table",
+  "title": "user",
+  "hideInSidebar": false,
+  "config": {
+    "dataSource": "postgres-db-b89bus",
+    "fetchStrategy": "databaseTable",
+    "table": "User"
+  }
+}

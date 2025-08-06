@@ -1,0 +1,11 @@
+{
+  "id": "f14a39a8-89a5-4073-aecb-408b7b4600a6",
+  "meta": {
+    "name": "5th august",
+    "icon": "https://web.kottster.app/icon.png"
+  },
+  "menuPageOrder": [
+    "user",
+    "product"
+  ]
+}
